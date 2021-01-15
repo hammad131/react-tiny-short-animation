@@ -9,9 +9,9 @@ function Header() {
             
             <nav>
                 <ul>
-                    <a className='tags' to="/">Home</a>
-                    <a className='tags' to="products">Products</a>
-                    <a className='tags' to="contact">Contact Us</a>
+                    <a  className='tags' href="/" >Home</a>
+                    <a  className='tags'href="/" >Products</a>
+                    <a  className='tags'href="/" >Contact Us</a>
                     
                 </ul>
             </nav>
