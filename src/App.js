@@ -9,11 +9,11 @@ import detection3 from "./images/detection3.svg";
 import useWebAnimations, { pulse } from "@wellyshen/use-web-animations";
 
 import bitcoin from './images/bitcoin.svg'
-import { Router } from "react-router-dom";
+
 
 function App() {
 
-  const pulsating = pulse;
+  
   
   const pattern = useWebAnimations({
     playbackRate: 0.08,
