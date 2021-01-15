@@ -6,7 +6,7 @@ import detection1 from "./images/detection1.svg";
 import detection2 from "./images/detection2.svg";
 import detection3 from "./images/detection3.svg";
 
-import useWebAnimations, { pulse } from "@wellyshen/use-web-animations";
+import useWebAnimations from "@wellyshen/use-web-animations";
 
 import bitcoin from './images/bitcoin.svg'
 
